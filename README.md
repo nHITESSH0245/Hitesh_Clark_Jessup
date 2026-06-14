@@ -1,7 +1,7 @@
 # LHC Task - Finance and Budgeting
 **Persona:** Clark Thomas Jessup
 **Category:** finance_and_budgeting
-**Submitted by:** Clark Thomas Jessup persona task under Talos Project
+**Submitted by:** Hitesh Kumar
 
 ---
 
